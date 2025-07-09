@@ -5,3 +5,5 @@ test1
 test2: soy-feature (commit)
 test3: soy-feature (commit2)
 test4: soy-feature (commit3)
+
+test5: soy-feature (squash)
