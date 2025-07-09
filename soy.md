@@ -11,3 +11,4 @@ test6: soy-feature (squash2)
 test7: soy-feature (squash3)
 
 test8: soy-feature (rebase)
+test9: soy-feature (rebase2)
