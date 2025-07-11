@@ -1,0 +1,50 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+.gradle/
+build/
+*.tmp
+*.temp
+logs/
+
+# BlueJ
+*.ctxt
+
+# Environment
+*.env
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# JARs & archives
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# J2ME
+.mtj.tmp/
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
